@@ -1,0 +1,18 @@
+Hledám v textovém odkumentu: mul(x,y) - funkce, která vrací součin dvou čísel
+    - x je číslo
+    - y je číslo
+
+Jdu znak po znaku a jakmile se objeví 4 znaky po sobě "mul(" 
+Skenuj znaky pro číslo
+Jakmile se objeví "," tak uložím číslo do proměnné x a:
+Skenuj číslo a jakmile narazím na ")" tak uložím číslo do proměnné y a skončím s hledámí čísla a hledám další výskyt "mul("
+
+
+najde to pozice všech mulů, jakmile je to najde tak to začne skenovat číslo a hledat čárku, jakmile to narazí na čárku tak to uloží nalezené číslo do proměnné a skenuje a ukládá další číslo do proměnné. Jakmile to narazí na ) tak to 
+
+
+Čte to další znaky
+    - Pokud se znak dá překonvertovat na číslo, tak se přidá do proměnné x na 
+    - Pokud ses nedá překonvertovat tedy je to čárka, tak se uloží proměnná x
+    - Pak se začne skenovat(zjištění zda se dá znak překonvertovat na číslo) a pokud se dá tak se přidá do proměnné y
+    - Jakmile se narazí na ")" tak se uloží proměnná y a skončí se s hledáním čísla

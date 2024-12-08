@@ -4,4 +4,4 @@ Safe:
 Unsafe:
     - Nesplňuje se nějaká z podmínek v Safe
 Pozor:
-    - Může být 
+    - Může být jedna chyba 
