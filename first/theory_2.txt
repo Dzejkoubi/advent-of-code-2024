@@ -1,0 +1,15 @@
+Ukol: Kolikrat se jake cislo objevuje v druhem listu?
+
+
+1. Roztřídit do dvou listů
+    a. For loop na řádky - splitne řádek a první číslo přidá do array 1 a druhé do array 2
+    b. Použít funkci split
+    c. Použít for loop na listy
+    d. Přidat čísla do listů
+2. For loop na každé číslo
+    a. Vzít "i" číslo a zjistit kolikrát se objevuje ve druhém listu
+        i.Použít for loop na druhý list
+        ii. Porovnat čísla
+    b. Pokud se číslo shoduje vynásobit to číslo počtem kolikrá se shoduje
+3. Přičíst výsledek do proměnné
+    a. Print výsledek

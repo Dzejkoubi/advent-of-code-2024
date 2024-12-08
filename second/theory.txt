@@ -1,0 +1,13 @@
+Safe: 
+    - Čísla jdou od největšího po nejmenší nebo od nejmenšího po největší
+    - Čísla nedou z nižšího čísla na vyšší o více jak 3 nebo naopak
+Unsafe:
+    - Nesplňuje se nějaká z podmínek v Safe
+
+For loop pro všechny listy
+    - Zkontrolovat rozdíl mezi čísly
+        - For loop který vezme délku listu - 1
+        - Odečte list[i] od list[i+1]
+            - Pokud je číslo jiné než +-[1, 2, 3] tak je to nebezpečné - return false
+            - Pokud je v pořádku přičti číslo k sumě a přičti absolutních hodnotu rozdílu k sumě_2
+        - Pokud se suma a suma_2 rovnají tak je to v pořádku - return true

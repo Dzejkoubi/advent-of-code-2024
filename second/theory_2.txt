@@ -1,0 +1,7 @@
+Safe: 
+    - Čísla jdou od největšího po nejmenší nebo od nejmenšího po největší
+    - Čísla nedou z nižšího čísla na vyšší o více jak 3 nebo naopak
+Unsafe:
+    - Nesplňuje se nějaká z podmínek v Safe
+Pozor:
+    - Může být 

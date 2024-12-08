@@ -1,0 +1,19 @@
+1. Dát čísla do dvou arrays
+    a. For loop na řádky - splitne řádek a první číslo přidá do array 1 a druhé do array 2
+
+
+2. Seřadit každou array od nejnižšího po nevyšší číslo
+    a. Použít funkci sort
+
+
+3. Vzít [x]té číslo z listu jedna a [x] té číslo z listu a porovnat které je větší 
+    a. Použít for loop na oba listy a porovnat čísla
+
+
+4. Poté menší odečíst od většího 
+    a. Použít if statement na porovnání čísel
+
+
+5. Toto číslo přičíst do proměnné na ukládání čísla
+    a. print výsledek
+
